@@ -1,0 +1,35 @@
+#header{
+    height: 100px;
+  
+}
+#header span{
+    color: ghostwhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-left: 20px;
+    font-size: 30px;
+}
+body{
+    background-color: tan;
+}
+img{
+    width: 80px;
+    height: 250px;
+}
+#cardsty{
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: transparent;
+    border-radius: 15px;
+    border:  2px solid black;
+}
+h5{
+    font-weight: bold;
+    height: 40px;
+}
+#t1{
+    height: 120px;
+    overflow: auto;
+}

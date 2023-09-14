@@ -1,0 +1,43 @@
+#header{
+    height: 100px;
+  
+}
+#header span{
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-left: 20px;
+    font-size: 30px;
+}
+#box{
+    margin-top: 50px;
+    gap: 30px;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+}
+#fruit{
+    height: 100px;
+    background-color: cadetblue;
+    background-size: 100% 100%;
+    text-align: center;
+    
+    
+}
+#brewer{
+    height: 100px;
+    background-color: sandybrown;
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+#got{
+    height: 100px;
+   background-color: coral;
+    background-size: 100% 100%;
+    text-align: center;
+}

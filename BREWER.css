@@ -1,0 +1,31 @@
+#header{
+    height: 100px;
+  
+}
+#header span{
+    color: ghostwhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-left: 20px;
+    font-size: 30px;
+}
+body{
+    background-color: aquamarine;
+}
+#cardsty{
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: seashell;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+#beername{
+    height: 70px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#t2{
+    height: 40px;
+}
